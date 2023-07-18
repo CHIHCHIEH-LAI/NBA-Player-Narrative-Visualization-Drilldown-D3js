@@ -4,7 +4,7 @@ This project aims to create an interactive narrative visualization for NBA playe
 ## Project Requirements
 - Display an overview bar chart showing the average salary of NBA first-round drafted players by position.
 - Provide a drop-down menu to select players from the USA or other countries.
-- Enable users to drill-down into a scatterplot showing the detailed information of salary and rating for the selected position.
+- Enable users to drill-down into a scatterplot showing the detailed information of salary and rating for the selected position. 
 - Implement interactive features such as hovering over bars and data points to display additional information.
 - Include line annotations to distinguish player tiers based on ratings.
 - Allow users to go back to the overview bar chart from the scatterplot.
