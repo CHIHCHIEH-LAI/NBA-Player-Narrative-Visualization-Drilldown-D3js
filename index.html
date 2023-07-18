@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NBA Players Visualization</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div id="container">
+        <button id="back-button">Go Back</button>
+        <div id="visualization-container"></div>
+        <div id="dropdown-container">
+            <label for="country-select">Select Country:</label>
+            <select id="country-select">
+                <option value="USA">USA</option>
+                <option value="Other">Other</option>
+            </select>
+        </div>
+        <div id="description-container"></div>
+    </div>
+
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://rawgit.com/susielu/d3-annotation/master/d3-annotation.min.js"></script>
+    <script src="https://unpkg.com/topojson-client@3"></script>
+    <script src="script.js"></script>
+</body>
+</html>
