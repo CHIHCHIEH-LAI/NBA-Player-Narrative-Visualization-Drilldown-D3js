@@ -35,5 +35,8 @@ The parameters of the visualization include the selected country, selected posit
 - d3-annotation library: https://github.com/susielu/d3-annotation
 - topoJSON Client library: https://github.com/topojson/topojson-client
 
+## Demo
+[Demo Link](https://chihchieh-lai.github.io/)
+
 ## Credits
 The dataset used in this visualization is [nba.csv](https://www.kaggle.com/datasets/isaienkov/nba2k20-player-dataset)
